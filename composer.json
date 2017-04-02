@@ -1,0 +1,8 @@
+{
+    "name": "root/sheets",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
